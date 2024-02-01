@@ -1,0 +1,23 @@
+Phase 1
+Plant beans from the offer area into a bean field. 
+Click the end phase button once you are finished.
+To sell fields, click on the fields then the sell button.
+Remaining cards in the offer area will be discarded.
+&&&
+Phase 2
+Plant 1 or 2 cards from the front of your hand (one at a time) into a field that is empty, or contains beans of the same type.
+To sell fields, click on the fields then the sell button.
+Click the end phase button if you no longer want to plant any more cards.
+&&&
+Phase 3
+Discard a single card anywhere in your hand by clicking on it.
+Click the end phase button if you don’t want to discard a card.
+&&&
+Phase 4
+3 cards from the deck will be drawn.
+If the top card of the discard pile matches with any of the cards in the offer area, it will be placed with the matching card drawn from the deck pile, repeated until you can no longer match.
+Plant the offered cards by clicking on the card then a field.
+Click the end phase button once you’re finished.
+Remaining cards are left to the other player.
+After all above steps are finished, 2 new bean cards will be automatically drawn from the deck.
+&&&
