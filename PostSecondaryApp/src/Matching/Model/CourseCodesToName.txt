@@ -1,0 +1,52 @@
+ADA4M Dramatic Arts
+ASM4M Media Arts
+AMU4M Music
+ATC4M Dance
+AVI4M Visual Arts
+BAT4M Financial Accounting Principles
+BBB4M International Business Fundamentals
+BOH4M Business Leadership: Management Fundamentals
+CGO4M Geomatics: Geotechnologies in Action
+CGR4M The Environment and Resource Management
+CGU4M World Geography: Urban Patterns and Population Issues
+CGW4U Canadian and World Issues: A Geographic Analysis
+CHI4U Canada: History, Identity and Culture
+CHY4U World History: The West and the World
+CIA4U Analysing Current Economic Issues
+CLN4U Canadian and International Law
+CPW4U Canadian and World Politics
+ENG4U English
+ETS4U Studies in Literature
+EWC4U The Writer’s Craft
+FEF4U Extended French
+FIF4U French Immersion
+FSF4U Core French
+HFA4U Nutrition and Health
+HHG4M Human Development throughout the Lifespan
+HHS4U Families in Canada
+HNB4M The World of Fashion
+HSB4U Challenge and Change in Society
+HSC4M World Cultures
+HSE4M Equity and Social Justice: From Theory to Practice
+HZT4U Philosophy: Questions and Theories
+ICS4U Computer Science
+IDC4U Interdisciplinary Studies
+LVV4U Classical Civilization
+MCV4U Calculus and Vectors
+MDM4U Mathematics of Data Management
+MHF4U Advanced Functions
+NDG4M First Nations, Métis and Inuit Governance in Canada
+NDW4M Contemporary Indigenous Issues and Perspectives in a Global Context
+PLF4M Recreation and Healthy Active Living Leadership
+PSK4U Introductory Kinesiology
+SBI4U Biology
+SCH4U Chemistry
+SES4U Earth and Space Science
+SNC4M Science
+SPH4U Physics
+TDJ4M Technological Design
+TEJ4M Computer Engineering Technology
+TGJ4M Communications Technology
+THJ4M Green Industries
+TPJ4M Health Care
+TMJ4M Manufacturing Engineering Technology
