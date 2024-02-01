@@ -1,0 +1,17 @@
+Chemistry,SCH4U
+Physics,SPH4U
+Advanced Functions,MHF4U
+Biology,SBI4U
+Technological Design,TDJ4M
+Dramatic Arts,ADA4M
+43
+23
+12
+43
+21
+23
+123
+u
+2
+1
+Completed

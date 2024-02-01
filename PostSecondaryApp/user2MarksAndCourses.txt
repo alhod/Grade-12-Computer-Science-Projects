@@ -1,0 +1,17 @@
+Chemistry,SCH4U
+Health Care,THJ4M
+Advanced Functions,MHF4U
+Science,SNC4M
+English,ENG4U
+Biology,SBI4U
+95
+97
+98
+94
+96
+97
+50
+Bur Oak Secondary School
+b@gmail.com
+30
+Completed
